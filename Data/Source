@@ -1,5 +1,0 @@
-Amazon Reviews Dataset is stored on Kaggle, and you can go to the following link to download. 
-https://www.kaggle.com/bittlingmayer/amazonreviews
-
-trump.txt is the original unlabeled Trump's Tweets data
-trump_a.txt is our 200 manually labeled Trump's Tweets data
