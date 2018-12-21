@@ -1,5 +1,5 @@
-# Big_Data
-Big Data E6893
+# Big_Data E6893 Final Project
+Advanced Sentiment Analysis
 
 Dataset: 
 
@@ -14,3 +14,4 @@ Codes:
 1. First run Data_Reformating.py to reformat the raw data as proper input to models.
 2. The other 3 .py files are 3 methods/models we applied. You can run each file independently.
 
+YouTube Link: 
