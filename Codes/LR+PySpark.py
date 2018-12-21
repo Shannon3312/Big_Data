@@ -76,15 +76,6 @@ print((df_train_y.count(),len(df_train_y.columns)))
 print((df_test_x.count(),len(df_test_x.columns)))
 print((df_test_y.count(),len(df_test_y.columns)))
 
-# display first five rows 
-df_train_y.show(5)
-
-# display first five rows 
-df_test_x.show(5)
-
-# display first five rows 
-df_test_y.show(5)
-
 # function to get feature data
 def get_feature (dataframe = df_train_x, nFeature = 200):
     # convert the input string to lowercase and then split it by regex pattern
